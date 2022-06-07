@@ -1,0 +1,8 @@
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.deps.json
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard1.4\SchoolLibrary.pdb
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.AssemblyInfo.cs
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.dll
+C:\Users\ismes\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard1.4\SchoolLibrary.pdb
